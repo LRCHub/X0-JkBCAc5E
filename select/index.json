@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SNAKE EYES",
+  "base_artist": "Hakos Baelz",
+  "createdAt": "2026-03-08T00:45:53.037657Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Snake Eyes",
+      "artist": "Main Source",
+      "has_synced": true,
+      "path": "select/01_Snake_Eyes_Main_Source.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Snake Eyes",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/02_Snake_Eyes_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Snake Eyes",
+      "artist": "Shivaree",
+      "has_synced": false,
+      "path": "select/03_Snake_Eyes_Shivaree.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Snake Eyes And Sissies",
+      "artist": "Marilyn Manson",
+      "has_synced": false,
+      "path": "select/04_Snake_Eyes_And_Sissies_Marilyn_Manson.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Snake Eyes And Sissies",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/05_Snake_Eyes_And_Sissies_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Snake Eyes",
+      "artist": "Axel Rudi Pell",
+      "has_synced": true,
+      "path": "select/06_Snake_Eyes_Axel_Rudi_Pell.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Snake Eyes (live)",
+      "artist": "Axel Rudi Pell",
+      "has_synced": false,
+      "path": "select/07_Snake_Eyes_(live)_Axel_Rudi_Pell.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Snake Eyes Boogie",
+      "artist": "L.A. Guns",
+      "has_synced": false,
+      "path": "select/08_Snake_Eyes_Boogie_L.A._Guns.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Snake Eyes (feat. CoMa)",
+      "artist": "Feint",
+      "has_synced": true,
+      "path": "select/09_Snake_Eyes_(feat._CoMa)_Feint.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Snake Eyes",
+      "artist": "Feint",
+      "has_synced": true,
+      "path": "select/10_Snake_Eyes_Feint.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Snake Eyes",
+      "artist": "Feint/CoMa",
+      "has_synced": true,
+      "path": "select/11_Snake_Eyes_Feint_CoMa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Snake Eyes",
+      "artist": "The Alan Parsons Project",
+      "has_synced": true,
+      "path": "select/12_Snake_Eyes_The_Alan_Parsons_Project.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Snake Eyes (feat. CoMa)",
+      "artist": "Feint",
+      "has_synced": true,
+      "path": "select/13_Snake_Eyes_(feat._CoMa)_Feint.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "II Snake Eyes",
+      "artist": "Alan Parsons Project",
+      "has_synced": true,
+      "path": "select/14_II_Snake_Eyes_Alan_Parsons_Project.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Snake Eyes",
+      "artist": "Alan Parsons Project",
+      "has_synced": false,
+      "path": "select/15_Snake_Eyes_Alan_Parsons_Project.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SNAKE EYES",
+      "artist": "Hakos Baelz",
+      "has_synced": false,
+      "path": "select/pl_01_SNAKE_EYES_Hakos_Baelz.txt"
+    }
+  ]
+}
