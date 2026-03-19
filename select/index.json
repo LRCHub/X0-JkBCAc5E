@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "SNAKE EYES",
   "base_artist": "Hakos Baelz",
-  "createdAt": "2026-03-08T00:46:02.184933Z",
+  "createdAt": "2026-03-19T12:32:04.557693Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "Hakos Baelz",
       "has_synced": false,
       "path": "select/pl_01_SNAKE_EYES_Hakos_Baelz.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "SNAKE EYES",
+      "artist": "Hakos Baelz",
+      "has_synced": false,
+      "path": "select/localdb_01_SNAKE_EYES_Hakos_Baelz.txt",
+      "repo_name": "X0-JkBCAc5E"
     }
   ]
 }
